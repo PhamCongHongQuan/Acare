@@ -21,3 +21,11 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+# Python
+__pycache__/
+*.pyc
+Backend/src/main/python/RAG/BTL/
+.venv/
+venv/
+.env
